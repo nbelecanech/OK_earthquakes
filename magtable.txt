@@ -1,0 +1,7 @@
+Largest smallest in 2001 Number earthquakes = 0 maglist2001.txt
+Largest 1.6 smallest 1.5 in 2004 Number earthquakes = 2 maglist2004.txt
+Largest 3.7 smallest 1.8 in 2009 Number earthquakes = 33 maglist2009.txt
+Largest 3.8 smallest 0.0 in 2012 Number earthquakes = 588 maglist2012.txt
+Largest 4.4 smallest -0.2 in 2014 Number earthquakes = 3163 maglist2014.txt
+Largest 5.8 smallest 0.4 in 2016 Number earthquakes = 1899 maglist2016.txt
+Largest smallest in 2018 Number earthquakes = 0 maglist2018.txt
